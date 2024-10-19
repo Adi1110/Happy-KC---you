@@ -40,14 +40,14 @@ body {
 }
 
 .card-front {
-    background-color: #ffcc00;
+    background-color: red;
     color: white;
     font-size: 20px;
     text-align: center;
 }
 
 .card-back {
-    background-color: white;
+    background-color: rgb(235, 245, 104);
     display: flex;
 }
 
